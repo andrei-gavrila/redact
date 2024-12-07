@@ -1,0 +1,10 @@
+{
+	"name": "texlive/texlive:latest",
+	"image": "texlive/texlive:latest",
+
+	"customizations": {
+        "vscode": {
+            "extensions": ["James-Yu.latex-workshop"]
+        }
+    }
+}
